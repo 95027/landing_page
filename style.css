@@ -209,5 +209,9 @@ nav
     {
         margin-top: 6px;
     }
+    .text-container
+    {
+        width: 350px;
+    }
 }
 
